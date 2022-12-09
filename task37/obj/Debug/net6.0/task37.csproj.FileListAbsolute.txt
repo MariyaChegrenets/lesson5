@@ -1,0 +1,15 @@
+D:\GeekBrains\С#\lesson5\task37\bin\Debug\net6.0\task37.exe
+D:\GeekBrains\С#\lesson5\task37\bin\Debug\net6.0\task37.deps.json
+D:\GeekBrains\С#\lesson5\task37\bin\Debug\net6.0\task37.runtimeconfig.json
+D:\GeekBrains\С#\lesson5\task37\bin\Debug\net6.0\task37.dll
+D:\GeekBrains\С#\lesson5\task37\bin\Debug\net6.0\task37.pdb
+D:\GeekBrains\С#\lesson5\task37\obj\Debug\net6.0\task37.csproj.AssemblyReference.cache
+D:\GeekBrains\С#\lesson5\task37\obj\Debug\net6.0\task37.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\С#\lesson5\task37\obj\Debug\net6.0\task37.AssemblyInfoInputs.cache
+D:\GeekBrains\С#\lesson5\task37\obj\Debug\net6.0\task37.AssemblyInfo.cs
+D:\GeekBrains\С#\lesson5\task37\obj\Debug\net6.0\task37.csproj.CoreCompileInputs.cache
+D:\GeekBrains\С#\lesson5\task37\obj\Debug\net6.0\task37.dll
+D:\GeekBrains\С#\lesson5\task37\obj\Debug\net6.0\refint\task37.dll
+D:\GeekBrains\С#\lesson5\task37\obj\Debug\net6.0\task37.pdb
+D:\GeekBrains\С#\lesson5\task37\obj\Debug\net6.0\task37.genruntimeconfig.cache
+D:\GeekBrains\С#\lesson5\task37\obj\Debug\net6.0\ref\task37.dll
