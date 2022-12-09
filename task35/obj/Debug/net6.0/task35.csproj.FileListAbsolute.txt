@@ -1,0 +1,15 @@
+D:\GeekBrains\С#\lesson5\task35\bin\Debug\net6.0\task35.exe
+D:\GeekBrains\С#\lesson5\task35\bin\Debug\net6.0\task35.deps.json
+D:\GeekBrains\С#\lesson5\task35\bin\Debug\net6.0\task35.runtimeconfig.json
+D:\GeekBrains\С#\lesson5\task35\bin\Debug\net6.0\task35.dll
+D:\GeekBrains\С#\lesson5\task35\bin\Debug\net6.0\task35.pdb
+D:\GeekBrains\С#\lesson5\task35\obj\Debug\net6.0\task35.csproj.AssemblyReference.cache
+D:\GeekBrains\С#\lesson5\task35\obj\Debug\net6.0\task35.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\С#\lesson5\task35\obj\Debug\net6.0\task35.AssemblyInfoInputs.cache
+D:\GeekBrains\С#\lesson5\task35\obj\Debug\net6.0\task35.AssemblyInfo.cs
+D:\GeekBrains\С#\lesson5\task35\obj\Debug\net6.0\task35.csproj.CoreCompileInputs.cache
+D:\GeekBrains\С#\lesson5\task35\obj\Debug\net6.0\task35.dll
+D:\GeekBrains\С#\lesson5\task35\obj\Debug\net6.0\refint\task35.dll
+D:\GeekBrains\С#\lesson5\task35\obj\Debug\net6.0\task35.pdb
+D:\GeekBrains\С#\lesson5\task35\obj\Debug\net6.0\task35.genruntimeconfig.cache
+D:\GeekBrains\С#\lesson5\task35\obj\Debug\net6.0\ref\task35.dll
